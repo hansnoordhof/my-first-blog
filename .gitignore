@@ -5,7 +5,6 @@ intro
 db.sqlite3
 /static
 .DS_Store
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
